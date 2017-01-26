@@ -5,11 +5,11 @@ myApp.controller('homeController', ['$scope', function($scope){
     {
         image: "img/pic2.jpg"
     },
-    {
+   /* {
         image: "img/pic3.jpg"
     },
     {
         image: "img/pic4.jpg"
-    }
+    }*/
     ];
 }]);
